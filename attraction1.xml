@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Places>
+ 
+  <address_component>
+   <place_id>1</place_id>
+   <location>
+    <lat>48.9229587</lat>
+    <lng>24.7087013</lng>
+   </location>
+   <name>Ратуша</name>
+   <description>Міська Ратуша — 1871 р. В даний час в Ратуші розташований краєзнавчий музей, з досить великою експозицією, в тому числі і експонатами Трипільської культури.</description>
+   <photo_reference>if_01.jpeg</photo_reference>
+  </address_component>
+
+  <address_component>
+   <place_id>2</place_id>
+   <location>
+    <lat>48.9236002</lat>
+    <lng>24.7105038</lng>
+   </location>
+   <name>Кафедральний собор Святого Воскресіння</name>
+   <description>Головний (катедральний) собор Івано-Франківської архієпархії української греко-католицької церкви.</description>
+   <photo_reference>Cathedral_in_Ivano-Frankivsk.jpg</photo_reference>
+  </address_component>
+
+  <address_component>
+   <place_id>3</place_id>
+   <location>
+    <lat>48.930616</lat>
+    <lng>24.726582</lng>
+   </location>
+   <name>Костел Христа Царя</name>
+   <description>На сьогоднішній день це єдиний Римо-Католицький храм у місті. Будівництво розпочалося у 1925 році і завершилося у 1932 році.</description>
+   <photo_reference>kostel.jpg</photo_reference>
+  </address_component>
+
+  <address_component>
+   <place_id>4</place_id>
+   <location>
+    <lat>48.923610</lat>
+    <lng>24.708410</lng>
+   </location>
+   <name>Івано-Франківський обласний художній музей</name>
+   <description>Колегіальний костел Пресвятої Діви Марії, Станіславська Колеґіата — найдавніший храм Івано-Франківська.</description>
+   <photo_reference>museum.jpg</photo_reference>
+  </address_component> 
+
+  <address_component>
+   <place_id>5</place_id>
+   <location>
+    <lat>48.924843</lat>
+    <lng>24.713493</lng>
+   </location>
+   <name>Палац Потоцьких</name>
+   <description>Замок триповерховий, оточений оборонними валами і бастіонами, службовими будівлями та парком. Зараз гарно збереглась лише паркова огорожа та ворота.</description>
+   <photo_reference>if_2.jpg</photo_reference>
+  </address_component> 
+  
+</Places>  
+  
+  
+   
